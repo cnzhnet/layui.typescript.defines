@@ -3,7 +3,7 @@ layui 及 easyui.datagrid 的 typescript定义
 
 <strong>注意事项：</strong>此代码<span style="color: #ff0000">使用 TypeScript 3.7.2 版本</span>，使用更老版本的 TypeScript 可能出现编译错误.
 
-<strong>使用方法：</strong>根据需要选择将 layui 或 easyui 目标中的类型定义复制到您的项目。并使用三斜线指令引入类型后即可使用
+<strong>使用方法：</strong>根据需要选择将 layui 或 easyui 目标中的类型定义复制到您的项目。并使用三斜线指令引入类型后即可使用<br />
 easyui 引入： /// &lt;reference path="../[按你自己的目录结构]/easyui/datagrid.d.ts" /&gt; <br />
 layui 引入：  /// &lt;reference path="../[按你自己的目录结构]/layui/index.d.ts" /&gt;
 
